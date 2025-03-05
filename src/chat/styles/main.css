@@ -1990,9 +1990,7 @@ textarea.input_modify.text_area_input::-moz-placeholder {
   position: relative;
 }
 
-.font-btn {
-  font-family: var(--roboto-font) !important;
-}
+
 
 /* New css here*/
 
